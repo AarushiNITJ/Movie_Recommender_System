@@ -6,7 +6,5 @@ What it does:
 ![movie](https://github.com/user-attachments/assets/d35fd9e6-c468-432a-8c1d-fe62e6711d99)
 
 Live Demo
-
-
-https://github.com/user-attachments/assets/75b9b9bd-8bc2-46a5-817b-b4383ce835a7
+https://github.com/user-attachments/assets/0d52850a-ffb1-4791-a0e4-0a2e14eeb6f3
 
